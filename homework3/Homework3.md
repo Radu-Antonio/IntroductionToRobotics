@@ -13,6 +13,6 @@ Short pressing the button toggles the segmentstate from ON to OFF or from OFF to
 
 Long pressing the buttonresets the entire display by turning all the segments OFF and moving thecurrent position to the decimal point.
 
-![im2](https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework2/im2.jpeg)
+<img src="https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework3/img3.jpeg" alt="image" width="500" height="480"/>
 
 [demo](https://www.youtube.com/watch?v=Ku-_gC6Jc9s)
