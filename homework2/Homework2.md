@@ -10,3 +10,5 @@ Otherwise, after a button press, the elevator will move to the corresponding flo
 <img src="https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework2/im2.jpeg" alt="image" width="500" height="500"/>
 
 [demo](https://www.youtube.com/shorts/X9_kdsqPf4I)
+
+[code](https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework2/homework2.ino)

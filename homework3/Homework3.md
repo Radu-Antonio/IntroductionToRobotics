@@ -16,3 +16,5 @@ Long pressing the buttonresets the entire display by turning all the segments OF
 <img src="https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework3/img3.jpeg" alt="image" width="500" height="480"/>
 
 [demo](https://www.youtube.com/watch?v=Ku-_gC6Jc9s)
+
+[code](https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework3/homework3.ino)

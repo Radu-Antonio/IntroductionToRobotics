@@ -6,3 +6,5 @@ This assignment focuses on controlling each channel of an RGB LED using individu
 
 
 [demo](https://www.youtube.com/watch?v=V2Z1-XqeLN0)
+
+[code](https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework1/homework1.ino)
