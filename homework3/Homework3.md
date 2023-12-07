@@ -11,7 +11,7 @@ The joystick help us move from one position to neighbors.
 
 Short pressing the button toggles the segmentstate from ON to OFF or from OFF to ON. 
 
-Long pressing the buttonresets the entire display by turning all the segments OFF and moving thecurrent position to the decimal point.
+Long pressing the button resets the entire display by turning all the segments OFF and moving thecurrent position to the decimal point.
 
 <img src="https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework3/img3.jpeg" alt="image" width="500" height="480"/>
 
