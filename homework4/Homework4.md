@@ -5,7 +5,9 @@ Using the 4 digit 7 segment display, I implemented a stopwatch timer that counts
 # How it works
 
 - Button 1: start / pause
+  
 – Button 2: reset (if in pause mode) / reset saved laps (if in lap mode)
+
 – Button 3: save lap (if in counting mode) / cycle through saved laps (max 5)
 
 1. Display shows ”000.0”. When pressing the Start button, the timer starts
