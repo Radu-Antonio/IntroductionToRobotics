@@ -9,41 +9,28 @@ You have a meniu with options and for each option you go to a submeniu and then 
 The menu structure is like this:
 
 1. Sensor Settings
-  
-  - Sensors Sampling Interval. - here you are prompted for a value between 1 and 10 seconds. this value is the sampling rate for the sensors
-  
-  - Ultrasonic Alert Threshold. - here you are prompted for a threshold value for the ultrasonic sensor. 
-  
-  - LDR Alert Threshold. - here you are prompted for a threshold value for the LDR sensor.
-  
-  - Back - return to main menu
+    - Sensors Sampling Interval. - here you are prompted for a value between 1 and 10 seconds. this value is the sampling rate for the sensors
+    - Ultrasonic Alert Threshold. - here you are prompted for a threshold value for the ultrasonic sensor
+    - LDR Alert Threshold. - here you are prompted for a threshold value for the LDR sensor
+    - Back - return to main menu
 
 2. Reset Logger Data
-
-  - Yes.
-
-  - No.
+    - Yes.
+    - No.
 
 3. System Status 
-
-  - Current Sensor Readings - continuously print sensor readings at the set sampling rate, from all sensors (exit using any key)
-
-  - Current Sensor Settings - it displays the sampling rate and threshold value for all sensors
-
-  - Display Logged Data - here it displays the last 10 sensor readings for both sensors
-
-  - Back - here you return to main menu
+    - Current Sensor Readings - continuously print sensor readings at the set sampling rate, from all sensors (exit using any key)
+    - Current Sensor Settings - it displays the sampling rate and threshold value for all sensors
+    - Display Logged Data - here it displays the last 10 sensor readings for both sensors
+    - Back - here you return to main menu
   
 4. RGB LED Control 
-
-  - Manual Color Control - here you can set the RGB colors manually
-
-  - LED: Toggle Automatic ON/OFF - switch between automatic mode and manual mode
-
-  - Back - return to main menu
+    - Manual Color Control - here you can set the RGB colors manually
+    - LED: Toggle Automatic ON/OFF - switch between automatic mode and manual mode
+    - Back - return to main menu
 
 <img src="https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework5/img5.jpeg" alt="image" width="500" height="480"/>
 
 [demo](https://www.youtube.com/watch?v=1rRSC7MKfB4)
 
-[code](https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework5/homework5.ino)
+[code](https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/homework5/homework.ino)
