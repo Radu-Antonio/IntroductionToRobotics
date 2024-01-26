@@ -12,7 +12,7 @@ To stop the alarm you need to press the buttons in a specific order (1 1 3 2) an
 
 If you introduce a wrong sequence the sound will get even worse.
 
-<img src="https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/extrahomework1/img.jpeg" alt="image" width="500" height="480"/>
+<img src="https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/extrahomework1/img.jpeg" alt="image" width="580" height="480"/>
 
 [demo](https://www.youtube.com/watch?v=OW2HsRVJ_-I)
 

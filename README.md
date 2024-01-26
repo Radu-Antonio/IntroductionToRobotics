@@ -16,4 +16,6 @@ In this course we will learn about hardware, electronics, good programing practi
 
 [Extra Homework 1](https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/extrahomework1/extrahomework1.md)
 
+[Extra Homework 2](https://github.com/Radu-Antonio/IntroductionToRobotics/blob/master/extrahomework2/extrahomework2.md)
+
 [Final Project - Line Follower](https://github.com/Radu-Antonio/LineFollower)
